@@ -27,7 +27,7 @@ Although the project is a simple app in terms of its frontend capacity, the proj
 - No third-party library or package were used
 - The web and desktop environments were not prioritized for this submission.
 - CI / CD was not prioritized for this submission.
-- Flavors w not prioritized for this submission.
+- Flavors were not prioritized for this submission.
 - Analytics and Error Reporting was not prioritized for this submission.
 
 ### Setup Instructions
