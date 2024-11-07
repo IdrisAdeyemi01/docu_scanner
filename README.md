@@ -13,6 +13,7 @@ This project is my submission for the Receiptflow Senior Flutter Developer task
 - Use of Google ML Kit for document scanning through Native Kotlin implementation
 - No third-party Flutter library implementation
 - Ability to share the scanned document as PDF
+- Ability to crop and edit images
 
 ### Implementation / Architectural Decision
 
