@@ -37,4 +37,6 @@ Although the project is a simple app in terms of its frontend capacity, the proj
 - connect your Android device
 - run `flutter run` to test in your connected device
 
+* You can also simply install the app's apk to text. [Docu Scanner](https://drive.google.com/file/d/1DwYd2ziZA78f--cfG2aw8vmJO9Vmwud5/view?usp=sharing)
+
 Built with ❤️ in Flutter. Powered by Google ML Kit.
