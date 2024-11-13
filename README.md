@@ -31,6 +31,7 @@ Although the project is a simple app in terms of its frontend capacity, the proj
 - Analytics and Error Reporting was not prioritized for this submission.
 
 ### Setup Instructions
+
 - run `git clone https://github.com/IdrisAdeyemi01/docu_scanner.git` in your terminal
 - navigate to the directory containing the cloned project (docu_scanner)
 - open in any code editor of your choice e.g Android studio, VSCode etc
