@@ -2,9 +2,6 @@
 
 Document scanner with edge detection functionality
 
-## Introduction
-
-This project is my submission for the Receiptflow Senior Flutter Developer task
 
 ### Features
 
